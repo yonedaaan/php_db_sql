@@ -1,6 +1,7 @@
 <?php
 
- $name=$_POST['date'];
+ $date=$_POST['date'];
+ $time=$_POST['time'];
  $text=$_POST['text'];
 
 ?>
